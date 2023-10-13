@@ -1,8 +1,4 @@
 # unestia-player-sevice
 
-
-> ShopSystem (in Production)
-> PhaseSystem (Lobby, Ingame, Ending)
-> TeamManager (Blue, Yellow, Red, Green, ... (this is configurable configurable in the BedWars.class))
-> WorldSystem (in Worldfolder create config.json)
-> ScoreboardBuilder (easy to create/update the scoreboard)
+PlayerService, to manage PlayerConnections, Stats, Ranks, ... (Profiles)
+This was a Multiproxy controlsystem for the unestia.net Server
