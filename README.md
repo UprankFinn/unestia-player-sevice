@@ -1,4 +1,4 @@
-# unestia-player-sevice
+# PlayerService
 
-PlayerService, to manage PlayerConnections, Stats, Ranks, ... (Profiles)
+PlayerService, to manage PlayerConnections, Stats, Ranks, GameProfiles
 This was a Multiproxy controlsystem for the unestia.net Server
